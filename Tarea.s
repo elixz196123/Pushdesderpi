@@ -1,3 +1,8 @@
+@ Instituto Tecnologico de Tijuana
+@ Ingenieria en sistemas
+@ LEnguajes de interfaz
+@ Garcia Rosas Jeshua Emmanuel 18212188
+@ hola
 @ primero.s
 @   from thinkingeek.com
 @   http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
